@@ -1,0 +1,1 @@
+A HTTPie writen in rust, happy to enjoy
